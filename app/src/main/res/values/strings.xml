@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myintroduce</string>
+    <string name="title_home">Info</string>
+    <string name="title_dashboard">About Me</string>
+    <string name="title_notifications">Contact Me</string>
+
+</resources>
